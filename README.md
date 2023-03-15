@@ -1,4 +1,4 @@
-### Olá! Eu sou a Lygia Dias, estudante de desenvolvimento web na Trybe.
+### Olá! Eu sou a Lygia Dias, desenvolvedora web.
 
 
  <div>
